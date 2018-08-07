@@ -1,0 +1,107 @@
+INDICATOR|CODE
+Age of Inventory (Public)|AOIP
+Buyer Seller Index|BSI
+Days on Zillow (Public)|DOZP
+Home Sales (NSA)|SALES
+Home Sales (SA)|SASALES
+Home Sold As Foreclosure - Ratio - All Homes|HSAFRAL
+Inventory Measure (Public)|IMP
+Inventory Measure - SSA (Public)|IMSP
+Inventory Measure - Tiers (Public)|IMTP
+Listings Price Cuts (SA) All Homes|LPCSAL
+Listings Price Cuts (SA) Bottom Tier|LPCSBT
+Listings Price Cuts (SA) Condominiums|LPCSCO
+Listings Price Cuts (SA) Middle Tier|LPCSMT
+Listings Price Cuts (SA) Single-Family Residence|LPCSSF
+Listings Price Cuts (SA) Top Tier|LPCSTT
+Market Health Index|MHI
+Median Listing Price - All Homes|MLPAH
+Median Listing Price - Condo/Co-op|MLPCC
+Median Listing Price - Duplex/Triplex|MLPDT
+Median Listing Price - Five Or More Bedrooms|MLP5B
+Median Listing Price - Four Bedrooms|MLP4B
+Median Listing Price - One Bedroom|MLP1B
+Median Listing Price - Single-Family Residence|MLPSF
+Median Listing Price - Three Bedrooms|MLP3B
+Median Listing Price - Two Bedrooms|MLP2B
+Median Listing Price Per Square Foot - All Homes|MLPFAH
+Median Listing Price Per Square Foot - Condo/Co-op|MLPFCC
+Median Listing Price Per Square Foot - Duplex/Triplex|MLPFDT
+Median Listing Price Per Square Foot - Five Or More Bedrooms|MLPF5B
+Median Listing Price Per Square Foot - Four Bedrooms|MLPF4B
+Median Listing Price Per Square Foot - One Bedroom|MLPF1B
+Median Listing Price Per Square Foot - Single-Family Residence|MLPFSF
+Median Listing Price Per Square Foot - Three Bedrooms|MLPF3B
+Median Listing Price Per Square Foot - Two Bedrooms|MLPF2B
+Median Price Cut Dollar - All Homes|MPCDAH
+Median Price Cut Dollar - Condo|MPCDCO
+Median Price Cut Dollar - Single-Family Residence|MPCDSF
+Median Price Of Reduction - All Homes|MPPRAH
+Median Price Of Reduction - Condo|MPPRCO
+Median Price Of Reduction - Single-Family Residence|MPPRSF
+Median Rental Price - All Homes|MRPAH
+Median Rental Price - Condo/Co-op|MRPCC
+Median Rental Price - Duplex/Triplex|MRPDT
+Median Rental Price - Five Or More Bedrooms|MR51B
+Median Rental Price - Four Bedrooms|MRP4B
+Median Rental Price - Multi-Family Residence|MRPMF
+Median Rental Price - One Bedroom|MRP1B
+Median Rental Price - Single-Family Residence|MRPSF
+Median Rental Price - Studio|MRPST
+Median Rental Price - Three Bedrooms|MRP3B
+Median Rental Price - Two Bedrooms|MRP2B
+Median Rental Price Per Square Foot - All Homes|MRPFAH
+Median Rental Price Per Square Foot - Condo/Co-op|MRPFCC
+Median Rental Price Per Square Foot - Duplex/Triplex|MRPFDT
+Median Rental Price Per Square Foot - Five Or More Bedrooms|MRPF5B
+Median Rental Price Per Square Foot - Four Bedrooms|MRPF4B
+Median Rental Price Per Square Foot - Multi-Family Residence|MRPFMF
+Median Rental Price Per Square Foot - One Bedroom|MRPF1B
+Median Rental Price Per Square Foot - Single-Family Residence|MRPFSF
+Median Rental Price Per Square Foot - Studio|MRPFST
+Median Rental Price Per Square Foot - Three Bedrooms|MRPF3B
+Median Rental Price Per Square Foot - Two Bedrooms|MRPF2B
+Median Sold Price - All Homes|MSPAH
+Median Sold Price Per Square Foot - All Homes|MSPFAH
+Median Sold Price Per Square Foot - Condo|MSPFCO
+Median Sold Price Per Square Foot - Single-Family Residence|MSPFSF
+Median Value Per Square Foot - All Homes|MVALFAH
+NF Sales|NFS
+Percent Of Homes Decreasing In Values - All Homes|PHDVAH
+Percent Of Homes Increasing In Values - All Homes|PHIVAH
+Percent Of Homes Selling For Gain - All Homes|PHSGAH
+Percent Of Homes Selling For Loss - All Homes|PHSLAH
+Percent Of Listings With Price Reductions - All Homes|PLPRAH
+Percent Of Listings With Price Reductions - Bottom Tier|PLPRBT
+Percent Of Listings With Price Reductions - Condo|PLPRCO
+Percent Of Listings With Price Reductions - Middle Tier|PLPRMT
+Percent Of Listings With Price Reductions - Single-Family Residence|PLPRSF
+Percent Of Listings With Price Reductions - Top Tier|PLPRTT
+Percent Transactions That Are Previously Foreclosured Homes - All Homes|PTPFHAH
+Price To Rent Ratio - All Homes|PRRAH
+Turnover - All Homes|TURNAH
+Unsold Renos - All Homes|USRAH
+Zillow Home Value Index - All Homes|ZHVIAH
+Zillow Home Value Index - All Homes|ZHVISAH
+Zillow Home Value Index - Bottom Tier Year-Over-Year|ZHVIBTY
+Zillow Home Value Index - Bottom Tier|ZHVIBT
+Zillow Home Value Index - Condo|ZHVICO
+Zillow Home Value Index - Five Or More Bedrooms|ZHVI5B
+Zillow Home Value Index - Four Bedrooms|ZHVI4B
+Zillow Home Value Index - Middle Tier - Year-Over-Year|ZHVIMTY
+Zillow Home Value Index - Middle Tier|ZHVIMT
+Zillow Home Value Index - One Bedroom|ZHVI1B
+Zillow Home Value Index - Single-Family Residence|ZHVISF
+Zillow Home Value Index - Three Bedrooms|ZHVI3B
+Zillow Home Value Index - Top Tier - Year-Over-Year|ZHVITTY
+Zillow Home Value Index - Top Tier|ZHVITT
+Zillow Home Value Index - Two Bedrooms|ZHVI2B
+Zillow Rental Index - All Homes Plus Multi-Family Summary|ZRIAHMFS
+Zillow Rental Index - All Homes Plus Multi-Family|ZRIAHMF
+Zillow Rental Index - All Homes Summary|ZRIAHS
+Zillow Rental Index - All Homes|ZRIAH
+Zillow Rental Index - Multi-Family Residence Summary|ZRIMFRRS
+Zillow Rental Index - Multi-Family Residence|ZRIMFRR
+Zillow Rental Index - Single-Family Residence Summary|ZRISFRRS
+Zillow Rental Index - Single-Family Residence|ZRISFRR
+Zillow Rental Index Per Square Foot - All Homes|ZRIFAH
