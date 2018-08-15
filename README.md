@@ -1,8 +1,8 @@
 # Bay Area Housing Analysis Repo
 
 This repo corresponds to the Bay Area Analysis blog posts on Check Yo' Tech. 
-[Part 1](https://blog.checkyo.tech/2018/08/06/bay-area-housing-market-analysis/)
-[Part 2](https://blog.checkyo.tech/2018/08/15/bay-area-housing-market-analysis-part-2/)
+* [Part 1](https://blog.checkyo.tech/2018/08/06/bay-area-housing-market-analysis/)
+* [Part 2](https://blog.checkyo.tech/2018/08/15/bay-area-housing-market-analysis-part-2/)
 
 ## Part 1 Files
 ---
