@@ -15,6 +15,7 @@ Notebook:
 Data Files:
 - areas_city.csv
 - indicators.csv
+- zip_codes_states.csv
 
 ## Part 2 Files
 ---
